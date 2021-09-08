@@ -1,1 +1,1 @@
-# Building-RNN-LSTM-and-GRU-for-time-series-using-PyTorch
+# Building RNN LSTM and GRU for time series analysis using PyTorch
